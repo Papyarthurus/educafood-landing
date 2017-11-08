@@ -308,7 +308,7 @@ header.masthead {
   .btn-primary:hover {
     color: white;
     border-color: #1ACC6D;
-    background-color: #1ACC6D; }
+    background-color: #00C65C; }
   .btn-primary.active, .btn-primary:active,
   .open > .btn-primary.dropdown-toggle {
     color: white;
