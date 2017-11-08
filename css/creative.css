@@ -266,7 +266,7 @@ header.masthead {
   background-color: white; }
   .btn-default.focus, .btn-default:focus {
     color: #222222;
-    border-color: #bfbfbf;
+    border-color: #1ACC6D;
     background-color: #1ACC6D; }
   .btn-default:hover {
     color: #222222;
@@ -299,20 +299,21 @@ header.masthead {
 
 .btn-primary {
   color: white;
-  border-color: #F05F40;
+  border-color: #1ACC6D;
   background-color: #1ACC6D; }
   .btn-primary.focus, .btn-primary:focus {
+    outline: none;
     color: white;
-    border-color: #a4270d;
+    border-color: #1ACC6D;
     background-color: #1ACC6D; }
   .btn-primary:hover {
     color: white;
-    border-color: #e13612;
+    border-color: #1ACC6D;
     background-color: #00C65C; }
   .btn-primary.active, .btn-primary:active,
   .open > .btn-primary.dropdown-toggle {
     color: white;
-    border-color: #e13612;
+    border-color: #1ACC6D;
     background-color: #00C65C; }
     .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover,
     .open > .btn-primary.dropdown-toggle.focus,
@@ -337,7 +338,7 @@ header.masthead {
 .btn {
   font-weight: 700;
   text-transform: uppercase;
-  border: none;
+/*  border: none;*/
   border-radius: 300px;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
